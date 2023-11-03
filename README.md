@@ -18,7 +18,7 @@ Se você deseja contribuir para o projeto, fique à vontade para abrir problemas
 
 ## Autor
 
-Este projeto foi desenvolvido por [Leonardo Xavier]. Você pode entrar em contato comigo em [leonardo.xavier@cad.ftec.com.br].
+Este projeto foi desenvolvido por Leonardo Xavier. Você pode entrar em contato comigo em leonardo.xavier@cad.ftec.com.br.
 
 ## Licença
 
